@@ -9,6 +9,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/samples/jars/
 
 ## Documentation cache and generated files:
 /.yardoc/
